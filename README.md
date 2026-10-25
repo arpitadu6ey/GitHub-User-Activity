@@ -2,17 +2,9 @@
 
 A command-line tool that fetches and displays the recent public activity of any GitHub user.
 
-## Requirements
-- Node.js 18 or higher
-
 ## Usage
 ```bash
 node index.js <username>
-```
-
-Example:
-```bash
-node index.js torvalds
 ```
 
 ## Sample output
